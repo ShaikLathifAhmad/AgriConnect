@@ -29,3 +29,4 @@ While this project is primarily focused on a front-end demonstration of the AI u
 4. PYTHON.
 
 Built with AI and vibe coading by team - Synapse 
+Pujari Saisree, Lathif Ahmad , Guna Vardhan , Gella Ram
